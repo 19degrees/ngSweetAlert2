@@ -20,7 +20,7 @@ SweetAlert v2 [https://limonte.github.io/sweetalert2/](https://limonte.github.io
 	1. `SweetAlert.min.js`
 	2. `sweetalert2.min.js`
 	3. `sweetalert2.css`
-3. include the module in angular (i.e. in `app.js`) - `19degrees.ngSweetAlert2`
+3. include the module in angular (i.e. in `app.js`) - `joshtate04.ngSweetAlert2`
 
 
 ## Documentation
